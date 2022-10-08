@@ -1,4 +1,4 @@
-0x19. C - Stacks, Queues - LIFO, FIFO By AMADI MARIANA and RICHARD ASUWE.
+0x19. C - Stacks, Queues - LIFO, FIFO By AMADI MARIANA M.and RICHARD ASUWE.
 About: In this project, we created a simple interpreter for Monty ByteCodes. The interpreter reads a bytecode file and executes the bytecode commands.
 
 The Monty language
